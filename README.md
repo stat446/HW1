@@ -1,1 +1,36 @@
 # HW1
+
+#### 1. 
+In any service-oriented business it is important to assess customer satisfaction. Suppose an airline wants to assess the satisfaction of their customers. Occasionally, when an airline flight is not very full, the flight attendants may have free time to ask passengers to fill out customer satisfaction surveys. Suppose customer satisfaction is on a 0 to 10 scale with 0 being ``extremely dissatisfied'' and 10 being ``extremely satisfied.''
+
+##### a. (2 points)
+What is a major flaw with the validity of estimates generated from these satisfaction surveys?
+
+##### b. (2 points)
+What type of bias would you expect to appear in the estimates - an over or underestimate of the true customer satisfaction? Why?
+
+#### 2. 
+
+Suppose you want to estimate the proportion of MSU campus buildings that have at least one conference room. You plan on taking a simple random sample of campus buildings to gather your data.
+
+##### a. (4 points)
+Describe the target population, sampling frame, sampling unit, and observation unit.
+
+##### b. (2 points)
+How would you create a sampling frame?
+
+##### b. (2 points)
+
+What problems could arise in observing the units selected?
+
+#### 3. 
+Administrators of the dining facilities at MSU want information on the eating habits of all undergraduate MSU students enrolled on the Bozeman campus. A survey was run and data were collected at the five dining centers on campus known to have the highest volume of use. Random samples of 80 students from each of the five dining centers were selected from those students who used the dining facilities for lunch on a certain Wednesday. These students expressed their opinions by filling out a questionnaire.
+
+##### a. 2 points)
+ What is the target population? 
+ 
+##### b. (2 points)
+What is the study population?
+
+##### c. (4 points)
+Justify why the estimates from this sample will not be valid for the target population.
